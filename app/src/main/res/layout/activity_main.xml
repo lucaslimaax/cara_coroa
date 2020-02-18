@@ -14,14 +14,14 @@
         android:layout_marginTop="267dp"
         android:layout_marginBottom="8dp"
         android:background="#E3E4E3"
-        app:layout_constraintBottom_toTopOf="@+id/button"
+        app:layout_constraintBottom_toTopOf="@+id/button_jogar"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/logo" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/button_jogar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"

@@ -8,7 +8,7 @@
     tools:context=".tela_moeda">
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/img_cara"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/moeda_cara"
@@ -16,7 +16,7 @@
         tools:layout_editor_absoluteY="174dp" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/button_voltar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/botao_voltar"
